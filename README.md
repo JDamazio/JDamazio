@@ -1,4 +1,4 @@
-## Olá! Me chamo João
+## Hello, my name is João
 
 <div align="center">
   <a href="https://github.com/JDamazio">
